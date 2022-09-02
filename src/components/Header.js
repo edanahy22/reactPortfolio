@@ -12,9 +12,9 @@ const Header = () => {
         </button>
 
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <ul className="navbar-nav" style={{ textDecoration: 'none' }}>
-            <Link to="/" style={{ textDecoration: 'none' }}>
-            <li className="nav-link" style={{ textDecoration: 'none' }} > About</li>
+          <ul className="navbar-nav">
+            <Link to="/reactPortfolio">
+            <li className="nav-link"> About</li>
             </Link>
             <Link to="/Portfolio">
             <li className="nav-link"> Portfolio</li>

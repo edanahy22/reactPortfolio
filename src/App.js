@@ -28,7 +28,7 @@ function App() {
       </header>
       <body>
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/reactPortfolio">
             <About/>
           </Route>
           <Route path="/Resume">
