@@ -1,0 +1,18 @@
+.navbar{
+    background-color:#95818D;
+}
+
+.navbar-brand {
+    color: white !important;
+    margin: 1rem !important;
+}
+
+.collapse{
+   display: flex;
+   justify-content: end;
+}
+
+.page-link{
+    text-decoration: none !important;
+    color:#122932 !important;
+}
