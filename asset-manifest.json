@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.24937f13.css",
-    "main.js": "/reactPortfolio/static/js/main.91573867.js",
+    "main.js": "/reactPortfolio/static/js/main.cfb60e88.js",
     "static/js/787.1ed0c42c.chunk.js": "/reactPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/CoffeeShopImage.png": "/reactPortfolio/static/media/CoffeeShopImage.9914e76d0f1642999bec.png",
     "static/media/pdf.worker.js": "/reactPortfolio/static/media/pdf.worker.5a4781656f64092ca08b.js",
     "static/media/SightCityImage.png": "/reactPortfolio/static/media/SightCityImage.cb62a71c237a32dcdbe5.png",
     "static/media/AboutMe.JPG": "/reactPortfolio/static/media/AboutMe.2615e5faa44b39c85d5e.JPG",
     "static/media/WorkDayScheduler.png": "/reactPortfolio/static/media/WorkDayScheduler.5d0d8761e7676379b3fa.png",
+    "static/media/weatherdashboard.png": "/reactPortfolio/static/media/weatherdashboard.b38446671f930dbdb406.png",
     "static/media/ElaineDanahyResume.pdf": "/reactPortfolio/static/media/ElaineDanahyResume.ed244c821a5ad12d099d.pdf",
+    "static/media/notesapp.png": "/reactPortfolio/static/media/notesapp.d8cb7a2c7519ab0ce4ba.png",
     "index.html": "/reactPortfolio/index.html",
     "main.24937f13.css.map": "/reactPortfolio/static/css/main.24937f13.css.map",
-    "main.91573867.js.map": "/reactPortfolio/static/js/main.91573867.js.map",
+    "main.cfb60e88.js.map": "/reactPortfolio/static/js/main.cfb60e88.js.map",
     "787.1ed0c42c.chunk.js.map": "/reactPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24937f13.css",
-    "static/js/main.91573867.js"
+    "static/js/main.cfb60e88.js"
   ]
 }
