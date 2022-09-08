@@ -4,9 +4,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 //components
 import Header from './components/Header';
-// import Navigation from './components/Navigation';
-// import Project from './components/Project';
-// import Footer from './components/Footer';
+import Footer from './components/Footer';
 
 //pages
 import About from './components/pages/About';
@@ -42,9 +40,12 @@ function App() {
           </Route>
         </Switch>
       </body>
+      <footer>
+        <Footer/>
+      </footer>
     </div>
     </Router>
   );
-}
+};
 
 export default App;

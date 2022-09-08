@@ -1,4 +1,15 @@
 .resume{
     display:flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.btn {
+    background-color:#95818D;
+  
+}
+
+a {
+    color:white;
 }
